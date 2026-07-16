@@ -11,8 +11,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ccl-viva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ccl-viva&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ccl-viva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ccl-viva&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -59,10 +59,10 @@
 
 <p align="center">
   <a href="https://github.com/Ccl-viva/info-flow">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Ccl-viva&repo=info-flow&theme=tokyonight" />
+    <img height="120" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Ccl-viva&repo=info-flow&theme=tokyonight" />
   </a>
   <a href="https://github.com/Ccl-viva/terraform">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Ccl-viva&repo=terraform&theme=tokyonight" />
+    <img height="120" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Ccl-viva&repo=terraform&theme=tokyonight" />
   </a>
 </p>
 
